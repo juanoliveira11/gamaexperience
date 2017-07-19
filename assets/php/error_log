@@ -1,0 +1,30 @@
+[17-Jul-2017 04:13:01 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 04:13:01 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 04:17:53 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 04:17:53 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 05:17:59 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 05:17:59 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 09:36:16 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 09:36:16 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 11:10:25 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 11:10:25 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-lp.php on line 10
+[17-Jul-2017 11:38:05 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 11:38:05 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 11:48:30 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 11:48:30 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 11:49:57 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 11:49:57 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 11:58:31 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 11:58:31 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 12:01:08 America/Chicago] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'quero503_gama'@'192.185.222.95' (using password: YES) in /home/quero503/public_html/assets/php/conexao.php on line 7
+[17-Jul-2017 12:01:08 America/Chicago] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/quero503/public_html/assets/php/save-lead-index.php on line 10
+[17-Jul-2017 14:30:14 America/Chicago] PHP Catchable fatal error:  Object of class mysqli_result could not be converted to string in /home/quero503/public_html/assets/php/save-lead-index.php on line 20
+[17-Jul-2017 14:43:00 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/quero503/public_html/assets/php/save-lead-lp.php on line 41
+[17-Jul-2017 14:44:29 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/quero503/public_html/assets/php/save-lead-lp.php on line 41
+[17-Jul-2017 14:44:47 America/Chicago] PHP Parse error:  syntax error, unexpected '}' in /home/quero503/public_html/assets/php/save-lead-lp.php on line 41
+[17-Jul-2017 15:37:21 America/Chicago] PHP Parse error:  syntax error, unexpected '[', expecting variable (T_VARIABLE) or '$' in /home/quero503/public_html/assets/php/save-lead-index.php on line 4
+[18-Jul-2017 15:31:27 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/quero503/public_html/assets/php/consultar.php on line 39
+[18-Jul-2017 15:31:32 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/quero503/public_html/assets/php/consultar.php on line 39
+[18-Jul-2017 15:31:34 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/quero503/public_html/assets/php/consultar.php on line 39
+[18-Jul-2017 15:31:37 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/quero503/public_html/assets/php/consultar.php on line 39
+[18-Jul-2017 15:31:42 America/Chicago] PHP Fatal error:  Call to undefined method mysqli_result::num_rows() in /home/quero503/public_html/assets/php/consultar.php on line 39

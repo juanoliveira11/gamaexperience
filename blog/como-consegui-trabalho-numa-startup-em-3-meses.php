@@ -156,11 +156,11 @@
 
 
 
-                                    <div class="figura">
-                                        <p class="text-center"><img src="../assets/images/Blog/startup-contratacao.png"  alt="Gama Academy">
-                                        <p align="center">Créditos: Gama Academy
+                                    <div>
+                                        <p class="text-center"><img src="../assets/images/Blog/startup-contratacao.png"  alt="Gama Academy" /></p>
+                                        <p align="center">Créditos: Gama Academy</p>
                                     </div>
-                                    <p><br/><br/></p>
+                                    <p><br/></p>
 
 									<p>Mesmo áreas mais técnicas como Programação ou Designer (áreas que as 
                                         faculdades tradicionais “ensinam”) exigem habilidades que são possíveis 
@@ -385,9 +385,9 @@
                                     <h4> Quais os requisitos para entrar numa Startup? </h4>
                                     <p><br/></p>
 
-                                    <div class="figura">
-                                        <p class="text-center"><img src="../assets/images/Blog/startup-skills.jpeg"  alt="Gama Academy">
-                                        <p align="center">Créditos: Outbound Marketing
+                                    <div>
+                                        <p class="text-center"><img src="../assets/images/Blog/startup-skills.jpeg"  alt="Gama Academy"></p>
+                                        <p align="center">Créditos: Outbound Marketing</p>
                                     </div>
                                     <p><br/><br/></p>
 

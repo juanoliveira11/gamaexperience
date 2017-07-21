@@ -461,7 +461,7 @@
                             </div>
                             <div class="col-md-2 col-sm-4 col-xs-6">
                                 <div class="cbrand_item m-bottom-10">
-                                    <a href=""><img src="assets/images/clients/stone.png" alt="" /></a> 
+                                    <a href=""><img src="assets/images/clients/buscarid.png" alt="" /></a> 
                                 </div>
                             </div>
                             <div class="col-md-2 col-sm-4 col-xs-6">
